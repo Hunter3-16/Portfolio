@@ -107,7 +107,7 @@ function Projects() {
               title="Crypto Hunter"
               description="This dynamic ReactJS web app, styled with Tailwind CSS, prioritizes universal user-friendliness. It utilizes real-time data from top cryptocurrency APIs to display current values, market capitalization, and growth percentages of the top 50 cryptocurrencies in INR. Offering comprehensive insights, it empowers users with essential crypto market information for informed decisions, making it an indispensable tool for staying updated on digital assets worldwide."
               ghLink="https://github.com/Hunter3-16/CryptoHunter"
-              demoLink="https://cryptohunter.netlify.app/"
+              demoLink="https://cryptoexhunter.netlify.app/"
             />
           </Col>
 
