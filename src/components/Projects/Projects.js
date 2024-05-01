@@ -50,7 +50,7 @@ function Projects() {
               imgPath={ecom}
               isBlog={false}
               title="Snap Kart"
-              description="Hunter Kart is a full-stack E-Commerce website built on ReactJS, ExpressJS, NodeJS, and MongoDB, styled with TailwindCSS. It features a user-friendly interface, secure Login and Registration functionalities, and seamless integration of a Payment Gateway using Stripe for smooth transactions. The Admin portal allows efficient item addition and order management, ensuring a seamless shopping experience."
+              description="Snap Kart is a full-stack E-Commerce website built on ReactJS, ExpressJS, NodeJS, and MongoDB, styled with TailwindCSS. It features a user-friendly interface, secure Login and Registration functionalities, and seamless integration of a Payment Gateway using Stripe for smooth transactions. The Admin portal allows efficient item addition and order management, ensuring a seamless shopping experience."
               ghLink="https://github.com/Hunter3-16/SnapKart"           
             />
           </Col>
